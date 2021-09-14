@@ -2,11 +2,7 @@
 - 👀 I’m interested in Linux, Computer Programming & Physics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing (lol)
-- 📫 How to reach me : <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Email - sanjaypmallar2108@gmail.com <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Instagram -  sanj_pm <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Twitter - @SanjayPM6
-
+- 📫 How to reach me : @sanjaypmallar2108@gmail.com
 
 <!---
 sanjapm/sanjapm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
