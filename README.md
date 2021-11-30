@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sanjapm
-- 👀 I’m interested in Linux and Computer Programming 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on simple Python projects
-- 📫 How to reach me : sanjaypmallar2108@gmail.com through email
+- 👀 I’m interested in Linux and Programming 
+- 🌱 I’m currently learning C
+- 📫 How to reach me : sanjaypmallar2108@gmail.com
 
 <!---
 sanjapm/sanjapm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
